@@ -1,2 +1,3 @@
 # Weather-App
-This app is build using jetpack compose , koin and kotlin language.
+This app is built on Mvvm clean architecture and uses jetpack compose , koin DI and kotlin language.
+
